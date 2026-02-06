@@ -1,0 +1,3 @@
+echo "*.in" >> .gitignore
+echo "*.out" >> .gitignore
+echo "*.pyc" >> .gitignore
